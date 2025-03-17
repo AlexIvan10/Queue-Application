@@ -3,8 +3,9 @@ This is a queue management simulation application designed to allocate clients t
 
 ## Table of Contents
 - **Features**
-- **Technology Stack**
-- **System Architecture**
+- **Technologies Used**
+- **Usage**
+- **Architecture**
 - **Use Cases**
 - **New Features**
 
@@ -18,6 +19,12 @@ This is a queue management simulation application designed to allocate clients t
 - Multiple Strategies: The simulation supports two strategies for task allocation:
   - Shortest Queue: Allocates tasks to the server with the shortest queue.
   - Shortest Service Time: Allocates tasks to the server with the shortest processing time.
+
+---
+
+## Technologies Used
+- Java
+- Swing for the GUI
 
 ---
 
